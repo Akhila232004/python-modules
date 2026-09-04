@@ -1,0 +1,27 @@
+# ==============================================================================
+#  Organization : TINITIATE TECHNOLOGIES PVT LTD
+#  Website      : tinitiate.com
+#  Script Title : Python Tutorial
+#  Description  : Executable and Import Module
+#  Author       : Team Tinitiate
+# ==============================================================================
+
+
+
+def add_variables(var1=0, var2=0):
+    """Add two variables and return the result."""
+    return var1 + var2
+
+if __name__ == "__main__":
+    # This block of code will only run if this script is executed directly
+    # and not when it's imported as a module.
+    
+    # You can use this block to test the functionality if needed.
+    value1 = int(input("Enter the first number: "))
+    value2 = int(input("Enter the second number: "))
+    
+    result = add_variables(value1, value2)
+    print(f"The sum is: {result}")
+# OUTPUT: Enter the first number: 3
+#         Enter the second number: 4
+#         The sum is: 7
