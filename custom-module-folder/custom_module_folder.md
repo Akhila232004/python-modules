@@ -3,7 +3,7 @@
 # Python Tutorial
 &copy; TINITIATE.COM
 
-##### [Back To Contents](../../README.md)
+##### [Back To Contents](https://github.com/tinitiateprime/python/blob/main/README.md)
 
 # Custom Module Folder
 * Python Custom Module Folder or a Package are collection of python files placed in one DIRECTORY (Name with No Spaces), This DIRECTORY name becomes the module name.
