@@ -1,9 +1,9 @@
-![Python Tinitiate Image](../../python_tinitiate.png)
+![Python Tinitiate Image](https://github.com/Akhila232004/python/blob/main/python_tinitiate.png)
 
 # Python Tutorial
 &copy; TINITIATE.COM
 
-##### [Back To Contents](https://github.com/tinitiateprime/python/blob/main/README.md)
+##### [Back To Contents](https://github.com/Akhila232004/python/blob/main/README.md)
 
 # Custom Module Folder
 * Python Custom Module Folder or a Package are collection of python files placed in one DIRECTORY (Name with No Spaces), This DIRECTORY name becomes the module name.
@@ -350,7 +350,7 @@ sys.path.append('/path/to/module-folder')
 from module_name import module_function
 ```
 
-##### [Back To Contents](../../README.md)
+##### [Back To Contents](https://github.com/Akhila232004/python/blob/main/README.md)
 ***
 | &copy; TINITIATE.COM |
 |----------------------|
